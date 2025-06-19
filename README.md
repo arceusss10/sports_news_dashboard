@@ -2,6 +2,10 @@
 
 A responsive dashboard application with news aggregation and payout calculation features.
 
+![image](https://github.com/user-attachments/assets/455b9753-51b6-416e-9804-4ab7c49c6304)
+
+
+
 ## Features
 
 - **User Authentication**
